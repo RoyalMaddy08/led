@@ -1,0 +1,41 @@
+$date
+	Thu Feb 26 18:34:26 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module led_top_formal_verification_random_tb $end
+$var wire 1 ! led_gfpga $end
+$var wire 1 " led_bench $end
+$var reg 1 # clk $end
+$var reg 1 $ led_flag $end
+$var reg 1 % sim_start $end
+$var reg 1 & sw $end
+$var integer 32 ' nb_error [31:0] $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 '
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#308
+1#
+#616
+0#
+#924
+1#
+#1232
+0#
+#1234
