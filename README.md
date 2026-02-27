@@ -10,3 +10,14 @@ A simple LED controller implemented in Verilog and mapped to an FPGA fabric usin
 - `led_formal.vcd` — Simulation waveform file
 - `vvp_sim_output.txt` — Simulation result (Passed)
 
+## Tools Used
+- OpenFPGA (University of Utah)
+- Yosys — Logic Synthesis
+- VPR — Place & Route
+- Icarus Verilog — Simulation
+
+## Result
+Simulation: PASSED
+Bitstream Length: 510 bits
+EOF
+
